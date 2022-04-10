@@ -1,19 +1,15 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Gal Barby"
+image: "gal.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/gal-barby/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/galbarby"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:galbarby10@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+tell something
